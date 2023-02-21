@@ -14,4 +14,8 @@
     <string name="split_check">Split Check</string>
     <string name="don_t_split_check">Don\'t Split Check</string>
     <string name="if_split_how_many">If Split, How Many?</string>
+    <string name="ex_4_people">ex: 4 people</string>
+    <string name="enter_purchase_amount">Enter Purchase Amount</string>
+    <string name="settingButton">Settings</string>
+    <string name="calculate">Calculate</string>
 </resources>
